@@ -1,6 +1,5 @@
 import React from 'react'
 import BlogItem from '../Components/BlogItem'
-import { title } from 'process'
 import { blog_data } from '@/Assets/assets'
 import { useState } from 'react'
 

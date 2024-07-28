@@ -1,6 +1,6 @@
 import { blog_data } from '@/Assets/assets'
 import Image from 'next/image'
-import React from 'react'
+import React, { useState } from 'react'
 import {assets} from '@/Assets/assets'
 
 const BlogItem = ({title,description,category,image}) => {
